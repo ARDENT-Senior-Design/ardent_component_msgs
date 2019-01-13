@@ -1,2 +1,2 @@
-# ardent_controller_manager
-This package is meant to manage the default and custom controllers on ARDENT. Including trajectory and impedance control
+# ardent_component_manager
+This package contains messages relevant to specific onboard hardware
