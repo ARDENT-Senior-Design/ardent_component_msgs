@@ -1,6 +1,7 @@
-
-# The ListControllers service returns a list of controller types that are known
-# to ardent_mechanism_control. 
+# The ListControllers service returns a list of controller names that are spawned
+# inside ardent_control, and their corresponding stats. The state is either
+# running or stopped.
 
 ---
-string[] types
+string[] controllers
+string[] state
