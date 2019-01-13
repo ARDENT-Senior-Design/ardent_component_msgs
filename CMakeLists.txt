@@ -15,7 +15,7 @@ add_message_files(DIRECTORY msg FILES
   ActuatorStatistics.msg
   ControllerStatistics.msg
   JointStatistics.msg
-  MechanismStatistics.msg
+  RobotStatistics.msg
   )
 
 add_service_files(DIRECTORY srv FILES
